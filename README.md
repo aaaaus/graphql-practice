@@ -45,6 +45,14 @@
 - useful so that your queries don't repeat themselves on the front end
 - https://www.udemy.com/graphql-with-react-course/learn/lecture/6523088#overview
 
-# Mutations
+## Mutations
 
 - allow the ability to alter db records through GraphQL
+
+## Delete Mutation
+
+- Even if no data is coming back from server, GraphQL expects something back ...
+
+## Edit Mutation
+
+- NOTE: Put request (full on replacement), patch request (replace only properties contained within request body)
